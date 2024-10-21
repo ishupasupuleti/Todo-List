@@ -1,4 +1,4 @@
 # Todo-app
 
 
-App link : https://psv888.github.io/Todo-app/
+App link :  https://ishupasupuleti.github.io/Todo-List/
